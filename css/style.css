@@ -236,7 +236,7 @@ marquee {
   justify-content: center;
   align-items: center;
   padding: 0 10rem;
-  background-image: url("../img/bg_header3.gif");
+  background-image: url("../../img/bg_header3.gif");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; }
@@ -277,7 +277,7 @@ marquee {
   .qHacemos i {
     color: #FCB514;
     margin-bottom: 1rem; }
-  @media (max-width: 1200px) {
+  @media (max-width: 1400px) {
     .qHacemos {
       height: auto;
       padding: 1rem; } }

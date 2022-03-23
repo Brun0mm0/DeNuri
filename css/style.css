@@ -270,7 +270,7 @@ marquee {
   display: flex;
   flex-wrap: wrap;
   padding: 10rem;
-  height: calc(100vh); }
+  height: calc(100vh -4rem); }
   .qHacemos p {
     font-size: 1.5rem;
     padding: 0 1.2rem; }

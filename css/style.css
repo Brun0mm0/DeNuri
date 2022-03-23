@@ -277,7 +277,7 @@ marquee {
   .qHacemos i {
     color: #FCB514;
     margin-bottom: 1rem; }
-  @media (max-width: 900px) {
+  @media (max-width: 1200px) {
     .qHacemos {
       height: auto;
       padding: 1rem; } }
@@ -406,7 +406,7 @@ marquee {
   .footer i {
     margin-right: 1rem;
     display: block; }
-  @media (max-width: 900px) {
+  @media (max-width: 1200px) {
     .footer {
       height: auto;
       padding: 3rem 0rem;

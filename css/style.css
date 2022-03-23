@@ -117,7 +117,7 @@ header {
   justify-content: space-between; }
   @media (max-width: 1200px) {
     .hero {
-      padding: 10rem 3rem; } }
+      padding: 0 3rem; } }
   @media (max-width: 900px) {
     .hero {
       height: 100vh;
@@ -141,7 +141,7 @@ header {
   padding: 3rem; }
   .logo img {
     max-height: 80%; }
-    @media (max-width: 900px) {
+    @media (max-width: 1200px) {
       .logo img {
         max-width: 70%; } }
   @media (max-width: 900px) {

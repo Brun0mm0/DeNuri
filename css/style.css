@@ -236,7 +236,7 @@ marquee {
   justify-content: center;
   align-items: center;
   padding: 0 10rem;
-  background-image: url("../../img/bg_header3.gif");
+  background-image: url("../img/bg_header3.gif");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; }

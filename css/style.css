@@ -117,7 +117,7 @@ header {
   justify-content: space-between; }
   @media (max-width: 1200px) {
     .hero {
-      padding: 0 3rem; } }
+      padding: 0rem 3rem; } }
   @media (max-width: 900px) {
     .hero {
       height: 100vh;
@@ -236,7 +236,7 @@ marquee {
   justify-content: center;
   align-items: center;
   padding: 0 10rem;
-  background-image: url("../img/bg_header3.gif");
+  background-image: url("../../img/bg_header3.gif");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; }
@@ -277,7 +277,7 @@ marquee {
   .qHacemos i {
     color: #FCB514;
     margin-bottom: 1rem; }
-  @media (max-width: 1400px) {
+  @media (max-width: 1200px) {
     .qHacemos {
       height: auto;
       padding: 1rem; } }
@@ -406,7 +406,7 @@ marquee {
   .footer i {
     margin-right: 1rem;
     display: block; }
-  @media (max-width: 1400px) {
+  @media (max-width: 1200px) {
     .footer {
       height: auto;
-      padding: 3rem 0rem;} }
+      padding: 3rem 0rem; } }

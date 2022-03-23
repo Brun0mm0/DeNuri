@@ -409,6 +409,4 @@ marquee {
   @media (max-width: 1400px) {
     .footer {
       height: auto;
-      padding: 3rem 0rem;
-      grid-template-columns: 1fr;
-      grid-template-rows: 1fr 2fr; } }
+      padding: 3rem 0rem;} }

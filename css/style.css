@@ -113,8 +113,7 @@ header {
   height: calc(100vh - 4rem);
   display: flex;
   flex-wrap: wrap;
-  padding: 10rem;
-  justify-content: space-between; }
+  padding: 0 15rem; }
   @media (max-width: 1200px) {
     .hero {
       padding: 0rem 3rem; } }
@@ -122,6 +121,7 @@ header {
     .hero {
       height: 100vh;
       padding: 0;
+      padding-top: 10rem;
       flex-wrap: nowrap;
       flex-direction: column;
       justify-content: flex-start;
@@ -137,8 +137,7 @@ header {
 .logo {
   width: 50%;
   display: flex;
-  justify-content: center;
-  padding: 3rem; }
+  justify-content: center; }
   .logo img {
     max-height: 80%; }
     @media (max-width: 1200px) {
@@ -301,7 +300,7 @@ marquee {
     font-size: 2rem; }
 
 .footer {
-  height: calc(100vh - 4rem);
+  height: 100vh;
   padding: 0 5rem;
   display: flex;
   flex-wrap: wrap;
@@ -406,7 +405,7 @@ marquee {
   .footer i {
     margin-right: 1rem;
     display: block; }
-  @media (max-width: 1200px) {
+  @media (max-width: 1400px) {
     .footer {
       height: auto;
       padding: 3rem 0rem; } }

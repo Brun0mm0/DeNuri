@@ -120,8 +120,7 @@ header {
   @media (max-width: 900px) {
     .hero {
       height: 100vh;
-      padding: 0;
-      padding-top: 10rem;
+      padding: 10rem 0 0 0;
       flex-wrap: nowrap;
       flex-direction: column;
       justify-content: flex-start;

@@ -21,9 +21,10 @@ html {
   font-family: 'Roboto Mono', monospace; }
 
 h1 {
-  font-family: 'Rubik Mono One', sans-serif;
+  /* font-family: 'Rubik Mono One', sans-serif; */
+  font-family: 'Lobster', cursive;
   font-weight: 700px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-size: 5rem;
   margin-bottom: 10rem; }
   @media (max-width: 900px) {
@@ -32,17 +33,19 @@ h1 {
       font-size: 4rem; } }
 
 h2 {
-  font-family: 'Rubik Mono One', sans-serif;
-  text-transform: uppercase;
-  font-size: 3rem;
+  /* font-family: 'Rubik Mono One', sans-serif; */
+  font-family: 'Lobster', cursive;
+  /* text-transform: uppercase; */
+  font-size: 5rem;
   text-align: center;
   color: white; }
 
 h3 {
-  font-family: 'Rubik Mono One', sans-serif;
-  text-transform: uppercase;
+  /* font-family: 'Rubik Mono One', sans-serif; */
+  font-family: 'Lobster', cursive;
+  /* text-transform: uppercase; */
   width: 100%;
-  font-size: 3rem;
+  font-size: 4rem;
   font-weight: 600;
   font-style: italic;
   text-align: center;
@@ -114,6 +117,9 @@ header {
   display: flex;
   flex-wrap: wrap;
   padding: 0 15rem; }
+.hero h1 {
+  font-family: 'Roboto', sans-serif;
+}
   @media (max-width: 1200px) {
     .hero {
       padding: 0rem 3rem; } }
@@ -287,9 +293,12 @@ marquee {
   flex-direction: column;
   align-items: center; }
   .banner h3 {
-    font-size: 1.7rem;
-    font-weight: 600;
-    margin-bottom: 1rem; }
+    /* font-family: 'Rubik Mono One', sans-serif; */
+    /* font-family: 'Roboto Mono', monospace; */
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 900;
+    margin-bottom: 2rem; }
   @media (max-width: 900px) {
     .banner {
       width: 100%;
@@ -399,7 +408,8 @@ marquee {
   .footer h3, .footer p, .footer i {
     color: #C7DECC; }
   .footer h3 {
-    font-family: 'Rubik Mono One', sans-serif;
+    /* font-family: 'Rubik Mono One', sans-serif; */
+  font-family: 'Lobster', cursive;
     font-style: normal; }
   .footer i {
     margin-right: 1rem;
